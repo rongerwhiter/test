@@ -1,3 +1,0 @@
-aaabbb
-eeee
-ffffffffff
