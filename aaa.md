@@ -1,3 +1,1 @@
-fasdfsdaf
-aaaaaaaaaaaaaa
-qqqqqqqqqq
+Здравствыйте
